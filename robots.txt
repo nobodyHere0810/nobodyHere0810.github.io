@@ -9,5 +9,3 @@ Allow: /about/
 # Disallow: /js/
 # Disallow: /css/
 # Disallow: /fancybox/
-
-Sitemap: https://nobodyhere0810.github.io/sitemap.xml
